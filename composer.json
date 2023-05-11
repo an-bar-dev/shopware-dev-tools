@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "shopware/core": "~6.4"
+    "shopware/core": "~6.5"
   },
   "license": "MIT",
   "autoload": {
@@ -18,23 +18,23 @@
     }
   },
   "extra": {
-    "shopware-plugin-class": "AnBarDev\\ShopwareDevTools\\ShopwareDevTools",
+    "shopware-plugin-class": "AnBarDev\\ShopwareDevTools\\AnBarDevShopwareDevTools",
     "copyright": "Andrej Barna",
     "label": {
-      "de-DE": "ShopwareDevTools",
-      "en-GB": "ShopwareDevTools"
+      "de-DE": "Shopware Entwicklungstools",
+      "en-GB": "Shopware development tools"
     },
     "description": {
-      "de-DE": "Description",
-      "en-GB": "Description"
+      "de-DE": "Macht die Entwicklung von Shopware-Plugins viel einfacher. Generieren Sie alles, was Sie für ein Plugin benötigen, mit ein paar Zeilen in der CLI. Entitäten, Controller, Repositories...",
+      "en-GB": "Makes Shopware plugin development much easier. Generate everything you need for plugin with a few lines in CLI. Entities, Controllers, Repositories..."
     },
     "manufacturerLink": {
-      "de-DE": "https://acme.org",
-      "en-GB": "https://acme.org"
+      "de-DE": "https://an-bar-dev.rs",
+      "en-GB": "https://an-bar-dev.rs"
     },
     "supportLink": {
-      "de-DE": "https://acme.org",
-      "en-GB": "https://acme.org"
+      "de-DE": "https://an-bar-dev.rs",
+      "en-GB": "https://an-bar-dev.rs"
     }
   }
 }
